@@ -1,0 +1,5 @@
+﻿pk_administrativa,dep_administrativa,tipo
+1,Estadual,Rede isolada
+2,Municipal,Rede isolada
+3,Federal,Rede isolada
+4,Pública,Consolidado (Est+Mun)
